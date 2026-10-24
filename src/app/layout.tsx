@@ -36,13 +36,11 @@ export const metadata: Metadata = {
     type: "website",
     title: "FIFIPOKE — Tattoo Artist & Studio",
     description,
-    images: ["/images/og.jpg"],
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "FIFIPOKE — Tattoo Artist & Studio",
     description,
-    images: ["/images/og.jpg"],
   },
 };
 
